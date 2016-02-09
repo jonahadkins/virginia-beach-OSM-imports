@@ -1,7 +1,7 @@
 # virginia-beach-OSM-imports
 Repo for getting City of Virginia Beach's building footprints and addresses into OSM
 
-![](https://raw.githubusercontent.com/jonahadkins/hampton-OSM-imports/master/hampton.png)
+![](https://raw.githubusercontent.com/jonahadkins/virginia-beach-OSM-imports/master/va-beach.png)
 
 City of Virginia Beach, Virginia GIS department has provided building footprints and address points for importing into OpenStreetMap via their [Open Data Portal](http://gis.data.vbgov.com). The data is provided as is, license free.  
 
