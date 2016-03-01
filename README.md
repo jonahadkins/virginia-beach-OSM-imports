@@ -8,8 +8,8 @@ City of Virginia Beach, Virginia GIS department has provided building footprints
 ---  
 ### Pre-Import Notes  
 
-xxx,xxx Total Buildings  
-* xxx,xxx Buildings (!= shed/garage) with Addresses - xx%  !!
+142,154 Total Buildings  
+* 115,701 Buildings (!= shed/garage) with Addresses - 81%  !!
 
 Imports will be done through the dedicated user account [jonahadkins_vabeach_import](https://www.openstreetmap.org/user/jonahadkins_vabeach_imports/) and will be done through OSM Import Guidelines - [See Wiki](https://wiki.openstreetmap.org/wiki/City_of_Virginia_Beach_Buildings/Address_Import)
 
@@ -17,10 +17,14 @@ Imported building swill have the following `building=` tags populated:
 
 | Building  |   Count |
 | ------------- | ------------- |
-| apartments  | xx  |
-| church  | xx  |
-| garage  | xx  |
-| house  | xx  |
-| shed  | xx  |
-| static_caravan  | xx  |
-| yes  | xx  |
+| apartments  | 11,819  |
+| church  | 221  |
+| commercial  | 4,736  |
+| garage  | 9,666  |
+| house  | 97,267  |
+| industrial  | 327  |
+| residential  | 3,286  |
+| school  | 52  |
+| shed  | 7,938  |
+| static_caravan  | 2,197  |
+| yes  | 4,652  |
